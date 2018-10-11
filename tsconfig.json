@@ -1,0 +1,29 @@
+{
+    "compilerOptions": {
+        "jsx": "react"
+    },
+}
+
+// {
+//     "compileOnSave": true,
+//     "compilerOptions": {
+//         "target": "es6",
+//         "outFile": "Content/app.js",
+//         "sourceMap": true,
+//         "jsx": "react"
+//     }
+// }
+
+// {
+//     "compilerOptions": {
+//         "outDir": "./build/",
+//         "sourceMap": true,
+//         "noImplicitAny": true,
+//         "module": "commonjs",
+//         "target": "es5",
+//         "jsx": "react"
+//     },
+//     "files": [
+//         "./src/app/index.tsx"
+//     ]
+// }
